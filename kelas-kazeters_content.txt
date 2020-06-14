@@ -1,0 +1,5 @@
+RENCANA KONTEN KELAS KAZETERS
+
+- Python
+- Numpy
+- Matplotlib
