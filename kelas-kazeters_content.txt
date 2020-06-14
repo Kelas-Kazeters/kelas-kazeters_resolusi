@@ -2,7 +2,6 @@ RENCANA KONTEN KELAS KAZETERS
 
 - Python
   * Tkinter
-  * Os
   * Request
   * Mechanize
 - Keras
