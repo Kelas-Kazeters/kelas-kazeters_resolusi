@@ -1,5 +1,8 @@
 RENCANA KONTEN KELAS KAZETERS
 
 - Python
+  * Tkinter
+  * Os
+  * Request
 - Numpy
 - Matplotlib
