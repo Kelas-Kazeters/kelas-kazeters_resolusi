@@ -1,2 +1,2 @@
 # kelas-kazeters_resolusi
-Repository untuk menyimpan rencana Kelas Kazeters kedepannya
+Repository untuk menyimpan mimpi Kelas Kazeters kedepannya
