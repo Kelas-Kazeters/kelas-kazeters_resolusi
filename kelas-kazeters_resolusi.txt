@@ -7,3 +7,4 @@ Kelas Kazeters Resolusi
 - Bisa menguasai tensorflow
 - Membuat forum diskusi
 - Membuat 1 software yang bisa dijual
+- Bisa menguasai C
