@@ -4,6 +4,8 @@ RENCANA KONTEN KELAS KAZETERS
   * Tkinter
   * Os
   * Request
+  * Mechanize
 - Keras
+  * Mechine Learning
 - Numpy
 - Matplotlib
