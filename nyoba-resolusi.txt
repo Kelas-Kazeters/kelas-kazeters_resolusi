@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya nyoba nyari dari Ukraina
+
+Resolusi Saya :
+- Praktek face recognition dengan Opencv & Python
+- Menguasai TensorFlow
