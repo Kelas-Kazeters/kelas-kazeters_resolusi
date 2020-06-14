@@ -3,8 +3,8 @@ RENCANA KONTEN KELAS KAZETERS
 - Python
   * Tkinter
   * Request
-  * Math
-  * SQLite3
+  * Mechanize
 - Keras
+  * Mechine Learning
 - Numpy
 - Matplotlib
