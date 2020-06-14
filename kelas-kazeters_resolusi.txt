@@ -5,3 +5,5 @@ Kelas Kazeters Resolusi
 - Bisa menguasai python
 - Bisa menguasai keras
 - Bisa menguasai tensorflow
+- Membuat forum diskusi
+- Membuat 1 software yang bisa dijual
