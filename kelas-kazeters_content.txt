@@ -2,8 +2,9 @@ RENCANA KONTEN KELAS KAZETERS
 
 - Python
   * Tkinter
-  * Os
   * Request
+  * Math
+  * SQLite3
 - Keras
 - Numpy
 - Matplotlib
