@@ -1,0 +1,7 @@
+Kelas Kazeters Resolusi
+- Bisa menguasai opencv
+- Bisa menguasai java
+- Bisa menguasai c++
+- Bisa menguasai python
+- Bisa menguasai keras
+- Bisa menguasai tensorflow
